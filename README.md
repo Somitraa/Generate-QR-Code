@@ -36,7 +36,8 @@ To run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   
+   https://github.com/Somitraa/Generate-QR-Code.git
    ```
 
 3. Open the `index.html` file in your browser to view the application.
