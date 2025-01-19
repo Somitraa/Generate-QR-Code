@@ -1,6 +1,3 @@
-Here’s a sample GitHub README for your QR code generator project:
-
----
 
 # QR Code Generator
 
@@ -57,6 +54,3 @@ To run the project locally, follow these steps:
 Feel free to fork this repository and submit a pull request if you'd like to contribute. Please ensure that your code adheres to the existing style and adds functionality or fixes bugs.
 
 
----
-
-Feel free to adjust the content as needed, such as updating the repository name or adding any additional instructions!
